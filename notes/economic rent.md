@@ -1,1 +1,0 @@
-- Any payment to an owner or factor of production in excess of the cost needed to bring that factor into production

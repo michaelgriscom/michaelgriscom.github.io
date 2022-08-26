@@ -1,4 +1,0 @@
-- Regulation can and should be done exclusively in the case of [[market failures]]
-- Free markets are efficient, and [efficient markets minimize deadweight loss](../pages/efficient%20markets%20minimize%20deadweight%20loss.md)
-- [free markets solve the pricing problem](free%20markets%20solve%20the%20pricing%20problem)
-- [[free markets are bottom up systems]] and [[bottom up systems bolster liberal democracies]]

@@ -1,5 +1,0 @@
-- Housing that is in between single family homes and multi-family apartment buildings
-	- accessory dwelling units
-	- duplexes
-	- triplexes
-	- rowhomes
