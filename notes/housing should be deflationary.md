@@ -1,0 +1,5 @@
+- Housing is traditonally thought of as an investment
+- Housing prices outpacing inflation is unsustainable
+	- by definition this means that housing is becoming less affordable
+- When houses go up in price this solidifies an arbitrary first mover advantage
+	- It is fair for an owner to receive capital gains due to compensation for risk, but [[land value appreciation originates in society]] and the owner should not benefit from it

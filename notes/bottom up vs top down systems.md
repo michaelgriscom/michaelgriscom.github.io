@@ -1,0 +1,23 @@
+- bottom up
+	- properties
+		-  [[bottom up systems maximize agent freedom]]
+			- this results in more room for creativity
+		- [[bottom up systems amortize work across agents]]
+		- [[bottom up systems decentralize power]]
+		- individualist
+	- when to use it
+		- System is very complicated and optimal end structure is unknown
+	- outcome
+		- bottom up approaches create emergent systems
+			- complex, organic, potential fractal
+- top down
+	- properties
+		- top down systems centralize power
+		- top down systems concentrate work at the top
+		- collectivist
+	- when to use it
+		- System is prone to local optima
+		- End goal is clearly defined
+		- System is vulnerable to such as multipolar traps, coordination problems, and the tragedy of the commons
+	- outcome
+		- top down produces systems which are orderly, artificial, highly structured

@@ -1,0 +1,4 @@
+- Much of zoning targets dense housing types
+	- e.g. [[missing middle housing]], [single room occupancy](single%20room%20occupancy)
+	- More density means more supply, and [the housing affordability crisis is a supply side problem](the%20housing%20affordability%20crisis%20is%20a%20supply%20side%20problem.md)
+- Many zoning laws include parking minimums, and [free parking isn't free](free%20parking%20isn't%20free.md)

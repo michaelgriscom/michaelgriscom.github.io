@@ -1,0 +1,2 @@
+- Through a process called filtering, people move into newer luxury housing from older ones, creating a cascade which frees up lower cost housing, like hermit crabs entering bigger shells
+- References: https://www.lewis.ucla.edu/research/market-rate-development-impacts/
