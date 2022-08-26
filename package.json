@@ -12,9 +12,7 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "typecheck": "tsc --noEmit",
-    "deploy": "gatsby build && gh-pages -d public",
-    "deploy:ci": "gatsby build && gh-pages -d public -r https://$GH_TOKEN@github.com/michaelgriscom/michaelgriscom.github.io.git"
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^2.0.7",
