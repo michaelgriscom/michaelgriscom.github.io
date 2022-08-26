@@ -1,0 +1,6 @@
+- [[bottom up systems maximize agent freedom]]
+	- maximizing individual freedom
+- [bottom up systems decentralize power](bottom%20up%20systems%20decentralize%20power)
+	- decreases bureaucracy and opportunity for corruption
+-  [bottom up systems amortize work across agents](../pages/bottom%20up%20systems%20amortize%20work%20across%20agents.md)
+	- minimal governmental expenditure
