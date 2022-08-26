@@ -1,0 +1,38 @@
+{
+  "name": "michaelgriscom.github.io",
+  "version": "1.0.0",
+  "description": "michaelgriscom.github.io",
+  "author": "Michael Griscom",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit",
+    "deploy": "gatsby build && gh-pages -d public -b main",
+    "deploy:ci": "gatsby build && gh-pages -d public -b main -r https://$GH_TOKEN@github.com/michaelgriscom/michaelgriscom.github.io.git"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^2.0.7",
+    "gatsby": "^4.21.1",
+    "gatsby-plugin-styled-components": "^5.21.0",
+    "gatsby-theme-garden": "^0.1.66",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.45",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "gh-pages": "^4.0.0",
+    "typescript": "^4.7.4"
+  },
+  "resolutions": {
+    "sharp": "^0.29.0"
+  }
+}

@@ -1,0 +1,1 @@
+- [[free markets solve the pricing problem]], allowing supply and demand to coordinate in establishing the value of different items, which in turn produces an efficient allocation of resources

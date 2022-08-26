@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# gatsby files
+.cache/
+public
+
+# Yarn
+yarn-error.log
+.pnp/
+.pnp.js
+# Yarn Integrity file
+.yarn-integrity
+
+.DS_Store

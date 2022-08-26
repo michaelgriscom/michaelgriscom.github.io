@@ -1,0 +1,5 @@
+- [the housing market is not a free market](the%20housing%20market%20is%20not%20a%20free%20market.md)
+- if we can make housing/land a free market, then we can use the fact that [[free markets efficiently allocate limited resources]], resulting in productive uses
+- How can we make it a free market?
+- a [[land value tax]] would disincentivize sitting on vacant land
+- removing property tax would encourage land owners to build
